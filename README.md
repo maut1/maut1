@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Steven Mautone.
-I am a Director of Product Management at American Express creating solutions around our cross-channel digital experiences.
+I am a Product Director at American Express creating solutions around our cross-channel digital experiences.
 
 - 🔭 I’m currently working on ifihadglass.com
-- 🌱 I’m currently learning about Spatial Computing
+- 🌱 I’m passionate about Spatial Computing
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
