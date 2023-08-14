@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Steven Mautone.
-I am a Product Director at American Express creating solutions around our cross-channel digital experiences.
+I am VP or Product at Jenius Bank creating solutions for our industry-leading Web platform.
 
 - 🔭 I’m currently working on ifihadglass.com
 - 🌱 I’m passionate about Spatial Computing
