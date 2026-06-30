@@ -1,9 +1,9 @@
 ### Hi there 👋
 I'm Steven Mautone.
-I am VP or Product at Jenius Bank creating solutions for our industry-leading Web platform.
+I am a Principal Product Manager at Smartsheet creating solutions for Attachments, Proofing, and SmartFill.
 
-- 🔭 I’m currently working on ifihadglass.com
-- 🌱 I’m passionate about Spatial Computing
+- 🔭 I’m currently working on WebpageHero.com and TextMessageHero.com as well as the SMS Sidekick app for Android.
+- 🌱 I’m passionate about Spatial Computing and AI smartglasses.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
